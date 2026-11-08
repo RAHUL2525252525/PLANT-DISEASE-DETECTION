@@ -1,0 +1,6 @@
+Plant_leave_diseases_dataset_with_augmentation/
+__pycache__/
+scans/
+venv/
+.env
+*.zip

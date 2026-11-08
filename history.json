@@ -1,0 +1,11 @@
+{"time": "2026-01-10 10:11:30", "disease": "Background_without_leaves", "confidence": 99.99972534179688, "source": "upload"}
+{"time": "2026-01-10 10:12:03", "disease": "Background_without_leaves", "confidence": 99.93208312988281, "source": "camera"}
+{"time": "2026-01-10 10:12:06", "disease": "Background_without_leaves", "confidence": 99.93208312988281, "source": "camera"}
+{"time": "2026-02-23 14:25:53", "disease": "Background_without_leaves", "confidence": 99.15045928955078, "source": "camera"}
+{"time": "2026-02-23 14:27:17", "disease": "Pepper,_bell___Bacterial_spot", "confidence": 99.99810791015625, "source": "upload"}
+{"time": "2026-02-23 14:27:42", "disease": "Pepper,_bell___Bacterial_spot", "confidence": 99.99810791015625, "source": "upload"}
+{"time": "2026-02-23 15:05:33", "disease": "Pepper,_bell___Bacterial_spot", "confidence": 67.9087905883789, "source": "upload"}
+{"time": "2026-03-18 13:49:52", "disease": "Prediction_Index_19", "confidence": 92.94097137451172, "source": "upload"}
+{"time": "2026-11-07 13:06:20", "disease": "Tomato__Early_blight", "confidence": 84.32022880902989, "source": "camera"}
+{"time": "2026-11-07 13:18:29", "disease": "Corn___healthy", "confidence": 89.63714325472236, "risk": "Healthy", "source": "upload"}
+{"time": "2026-11-07 13:46:27", "disease": "Corn___Northern_Leaf_Blight", "confidence": 97.86596849210956, "risk": "Moderate", "source": "upload", "plot": "My Field", "notes": "", "thumb": "20261107_134627_b11906.jpg"}
